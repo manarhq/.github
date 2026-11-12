@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security problem
+    url: https://github.com/manarhq/.github/blob/main/SECURITY.md
+    about: Do not open a public issue. Use the repository's Security tab or email security@fixio.ae.
+  - name: Help with your account, devices or billing
+    url: mailto:support@fixio.ae
+    about: Questions about the hosted Manar service go to support.
+  - name: Pilots and companies
+    url: https://manar.fixio.ae/en/meet
+    about: Book a meeting with the team.

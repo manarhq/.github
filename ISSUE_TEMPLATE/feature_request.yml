@@ -1,0 +1,22 @@
+name: Feature request
+description: Suggest something Manar should do.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: The problem
+      description: What are you trying to do, and what gets in the way today?
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What you would like
+    validations:
+      required: true
+  - type: textarea
+    id: tools
+    attributes:
+      label: AI tools involved
+      description: For example Claude Code, Cursor, Codex CLI, Copilot, an MCP server.
